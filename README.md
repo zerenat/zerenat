@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin
-- 👀 I’m interested in: The topics of development/ engineering
+- 👀 I’m interested in: The topics of software development/ engineering
 - 🌱 I’m currently learning: AWS/ Kotlin
 - 💞️ I’m looking to collaborate on: The topics of software development/ engineering
 - 📫 How to reach me: m.hein090@gmail.com
